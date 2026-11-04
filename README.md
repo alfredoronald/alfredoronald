@@ -80,32 +80,25 @@ I build web applications and explore how to connect interfaces, APIs, databases,
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white" />
 </p>
 
-## Featured projects
+## Connect with me
 
-### [SCESI Events](https://github.com/alfredoronald/scesi-events)
+<p align="center">
+  <a href="https://github.com/alfredoronald">
+    <img alt="Visit my GitHub profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/scesi">
+    <img alt="SCESI community on GitHub" src="https://img.shields.io/badge/SCESI-284CDB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Academic events, registration, attendance tracking, and certificates in one platform.
+## My contribution journey
 
-`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfredoronald/alfredoronald/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfredoronald/alfredoronald/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation following my GitHub contribution calendar" src="https://raw.githubusercontent.com/alfredoronald/alfredoronald/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-### [Monitoreo IoT](https://github.com/alfredoronald/monitoreo-IoT)
-
-Environmental monitoring prototype connecting ESP32 sensors to a web dashboard through MQTT.
-
-`ESP32` `C++` `MQTT` `React` `Express` `PostgreSQL`
-
-### [EcoLlajta](https://github.com/alfredoronald/ecollajta)
-
-Production planning dashboard for exploring resource allocation and estimating process times.
-
-`React` `TypeScript` `Tailwind CSS` · [Live demo](https://ecollajta.vercel.app)
-
-### More projects
-
-- **[WeatherApp](https://github.com/alfredoronald/WeatherApp)** — Weather forecasts for Cochabamba with React, TypeScript, and OpenWeatherMap. [Live demo](https://weather-app-five-cyan-78.vercel.app)
-- **[BlockStore](https://github.com/alfredoronald/BlockStore)** — Movie search and discovery with React and JavaScript.
-
-## Community contributions
-
-**[3D Printing Event — SCESI](https://github.com/scesi/3D_Printer_event_landing_page)**  
-Contributed to the landing page design and built the responsive sponsors section with Astro and Tailwind CSS.
+<p align="center">
+  <img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=alfredoronald&style=flat-square&color=284cdb&label=Profile+views" />
+</p>
