@@ -83,6 +83,21 @@ I build web applications and explore how to connect interfaces, APIs, databases,
 ## Connect with me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/alfredo-ronald-choquerive-toroya-459786328/">
+    <img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1274170312832974890">
+    <img alt="Find me on Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:choquerivealfredoronald@gmail.com">
+    <img alt="Email me through Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alfredoronald13/">
+    <img alt="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/19XBrUhJ1s/">
+    <img alt="Find me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="https://github.com/alfredoronald">
     <img alt="Visit my GitHub profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
