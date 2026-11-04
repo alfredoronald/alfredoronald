@@ -82,40 +82,30 @@ I build web applications and explore how to connect interfaces, APIs, databases,
 
 ## Featured projects
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [SCESI Events](https://github.com/alfredoronald/scesi-events) | Academic event management platform with registration, attendance tracking, role-based access, and certificates. | Next.js, TypeScript, Express, Prisma, PostgreSQL |
-| [Monitoreo IoT](https://github.com/alfredoronald/monitoreo-IoT) | Environmental monitoring prototype connecting sensors, MQTT messaging, and a web application. | ESP32, C++, MQTT, React, Express, PostgreSQL |
-| [EcoLlajta](https://github.com/alfredoronald/ecollajta) | Dashboard for exploring resource allocation and estimating production times. | React, TypeScript, Tailwind CSS |
-| [WeatherApp](https://github.com/alfredoronald/WeatherApp) | Weather forecasts for Cochabamba using OpenWeatherMap. | React, TypeScript, REST API |
-| [BlockStore](https://github.com/alfredoronald/BlockStore) | Web application for searching and exploring movies. | React, JavaScript, CSS |
+### [SCESI Events](https://github.com/alfredoronald/scesi-events)
 
-### Live demos
+Academic events, registration, attendance tracking, and certificates in one platform.
 
-- [EcoLlajta](https://ecollajta.vercel.app)
-- [WeatherApp](https://weather-app-five-cyan-78.vercel.app)
+`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL`
 
-## Collaborations
+### [Monitoreo IoT](https://github.com/alfredoronald/monitoreo-IoT)
 
-### 3D Printing Event Landing Page — SCESI
+Environmental monitoring prototype connecting ESP32 sensors to a web dashboard through MQTT.
 
-I contributed to the landing page design and developed the sponsors section using Astro and Tailwind CSS, adapting the logo layout for mobile and desktop screens.
+`ESP32` `C++` `MQTT` `React` `Express` `PostgreSQL`
 
-[View repository](https://github.com/scesi/3D_Printer_event_landing_page)
+### [EcoLlajta](https://github.com/alfredoronald/ecollajta)
 
-## GitHub statistics
+Production planning dashboard for exploring resource allocation and estimating process times.
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alfredoronald&show_icons=true&theme=github_dark&hide_border=true&locale=en"
-    height="165"
-    alt="Alfredo Ronald's public GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoronald&layout=compact&langs_count=10&theme=github_dark&hide_border=true&locale=en"
-    height="165"
-    alt="Most used languages across my public repositories"
-  />
-</div>
+`React` `TypeScript` `Tailwind CSS` · [Live demo](https://ecollajta.vercel.app)
 
-> The language chart shows code distribution across public repositories, not proficiency in each language.
+### More projects
+
+- **[WeatherApp](https://github.com/alfredoronald/WeatherApp)** — Weather forecasts for Cochabamba with React, TypeScript, and OpenWeatherMap. [Live demo](https://weather-app-five-cyan-78.vercel.app)
+- **[BlockStore](https://github.com/alfredoronald/BlockStore)** — Movie search and discovery with React and JavaScript.
+
+## Community contributions
+
+**[3D Printing Event — SCESI](https://github.com/scesi/3D_Printer_event_landing_page)**  
+Contributed to the landing page design and built the responsive sponsors section with Astro and Tailwind CSS.
